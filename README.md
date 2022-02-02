@@ -1,4 +1,4 @@
-# Desafio de projeto #1
+# Projeto #1
 
-Criar um repositório no GitHub.
+Projeto: Criar um repositório no GitHub.
 
