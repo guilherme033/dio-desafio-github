@@ -1,4 +1,4 @@
-# Desafio de Projeto sobre Git/GitHub da DIO
+# Desafio de projeto #1
 
-Repositório criado para o Desafio de Projeto
+Criar um repositório no GitHub.
 
